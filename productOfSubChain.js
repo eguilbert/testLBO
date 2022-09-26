@@ -1,3 +1,4 @@
+// v1
 // Nous avons une chaîne de nombres, par exemple : "12345654355".
 // Calcule le plus grand produit de toutes les sous-chaînes adjacentes possibles de longueur "n".
 
